@@ -1,0 +1,23 @@
+{
+  "name": "nft_ifps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crimecity2022/emblems.git"
+  },
+  "author": "Cpnunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crimecity2022/emblems/issues"
+  },
+  "homepage": "https://github.com/crimecity2022/emblems#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "fs": "^0.0.1-security"
+  }
+}
